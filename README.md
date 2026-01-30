@@ -187,7 +187,7 @@ Want to make it extra special with your own romantic song? Follow these steps to
 music: {
     enabled: true,
     autoplay: true,
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your URL here
+    musicUrl: "https://youtu.be/JEfS3HLnUVs?si=jAc4Umwc_Vtkne04", // Paste your URL here
     startText: "🎵 Play Music",
     stopText: "🔇 Stop Music",
     volume: 0.5
