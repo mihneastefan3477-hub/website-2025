@@ -86,8 +86,8 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+valentineName: "Alexia"                    // Your Valentine's name
+pageTitle: "vrei sa fi partenera mea de Valentine's Day? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -98,18 +98,18 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: "ma iubesti??",                   // First question
+        yesBtn: "Da",                             // Yes button text
+        noBtn: "Nu",                               // No button text
+        secretAnswer: "nu ca doar te iubesc simplu, te iubesc din tot sufletul meu! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "cat de mult ma iubesti?",          // Second question
+        startText: "cam atat..!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "vrei sa fi partenera mea deValentine's Day...?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -117,16 +117,16 @@ questions: {
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
-    high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
-    normal: "And beyond! 🥰"                           // Shows above 100%
+    extreme: "WOOOOW atat de mult ma iubesti???? 🥰🚀💝",  // Shows above 5000%
+    high: "puteai sa pui mai mult! 🚀💝",              // Shows above 1000%
+    normal: "cam putin nu crezi?! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
-    emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
+    title: "sunt cel mai fericit baiat...",     // Celebration title
+    message: "acum ar trebui sa primesti un cadou...",          // Celebration message
+    emojis: "🎁❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️💕"                        // Celebration emojis
 }
 
 // Website Colors
