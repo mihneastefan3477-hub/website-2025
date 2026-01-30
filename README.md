@@ -119,14 +119,14 @@ questions: {
 loveMessages: {
     extreme: "WOOOOW atat de mult ma iubesti???? 🥰🚀💝",  // Shows above 5000%
     high: "puteai sa pui mai mult! 🚀💝",              // Shows above 1000%
-    normal: "cam putin nu crezi?! 🥰"                           // Shows above 100%
+    normal: "cam putin nu crezi?! "                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
     title: "sunt cel mai fericit baiat...",     // Celebration title
-    message: "acum ar trebui sa primesti un cadou...",          // Celebration message
-    emojis: "🎁❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️💕"                        // Celebration emojis
+    message: "acum meriti 10000 de pupici si imbratisari!!",          // Celebration message
+    emojis: "❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"                        // Celebration emojis
 }
 
 // Website Colors
@@ -150,7 +150,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "YOUR_CLOUDINARY_URL_HERE", // Paste your music URL here
+    musicUrl: "https://youtu.be/JEfS3HLnUVs?si=jAc4Umwc_Vtkne04", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
